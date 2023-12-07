@@ -19,8 +19,7 @@ You can click the Preview link to take a look at your changes.
 
   
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=darrachbarneveld&margin-w=60&no-frame=true)
- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=darrachbarneveld)](https://github.com/ryo-ma/github-profile-trophy) 
 
 - - - 
 
