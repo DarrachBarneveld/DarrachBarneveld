@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @DarrachBarneveld
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 DarrachBarneveld/DarrachBarneveld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,8 +8,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darrachbarneveld&layout=donut)](https://github.com/darrachbarneveld/github-readme-stats)
  
-![Kera's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrachbarneveld&theme=buefy&show_icons=true&count_private=true&hide_border=true)  [![GitHub Streak](https://streak-stats.demolab.com/?user=darrachbarneveld)](https://git.io/streak-stats)
+![Darrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrachbarneveld&theme=buefy&show_icons=true&count_private=true&hide_border=true)  [![GitHub Streak](https://streak-stats.demolab.com/?user=darrachbarneveld)](https://git.io/streak-stats)
 
   
 
