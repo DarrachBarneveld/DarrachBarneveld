@@ -13,9 +13,7 @@ You can click the Preview link to take a look at your changes.
  
 ![Darrach's GitHub stats](https://github-readme-stats.vercel.app/api?username=darrachbarneveld&theme=buefy&show_icons=true&count_private=true&hide_border=true)  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=darrachbarneveld)](https://git.io/streak-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DarrachBarneveld)](https://git.io/streak-stats)
   
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=darrachbarneveld)](https://github.com/ryo-ma/github-profile-trophy) 
